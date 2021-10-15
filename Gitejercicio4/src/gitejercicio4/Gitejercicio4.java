@@ -16,6 +16,10 @@ public class Gitejercicio4 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Gato g = new Gato();
+        g.crearGato();
+        g.verGatoCreado();
+
     }
-    
+
 }
