@@ -5,6 +5,8 @@
  */
 package gitejercicio4;
 
+import entidades.Gato;
+
 /**
  *
  * @author RAÚL GABRIEL

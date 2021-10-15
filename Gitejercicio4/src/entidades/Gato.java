@@ -1,4 +1,4 @@
-package gitejercicio4;
+package entidades;
 
 import java.awt.HeadlessException;
 import java.util.Scanner;
